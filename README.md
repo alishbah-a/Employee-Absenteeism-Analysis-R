@@ -1,0 +1,1 @@
+This project explores the patterns, causes, and prediction of employee absenteeism using a comprehensive set of statistical and machine learning techniques in R. The goal is to help organizations understand which factors lead to frequent absences and build models to anticipate them, enabling proactive HR strategies.
